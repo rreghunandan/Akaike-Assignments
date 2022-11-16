@@ -1,1 +1,1 @@
-# Akaike-Assignments
+# Assignments
